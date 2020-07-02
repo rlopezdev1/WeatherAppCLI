@@ -6,7 +6,7 @@ import sys, json, requests
 #print ("The arguments are: ", str(sys.argv))
 
 
-APPID = '7883e31cc02aa2a476dc5d016ad54b27'
+APPID = "1"
 
 
 if len(sys.argv)<2:
