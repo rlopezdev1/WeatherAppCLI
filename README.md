@@ -1,7 +1,7 @@
 # WeatherAppCLI
 This is a project I created from automatetheboringstuff.com
 
-Project: Fetching current Weather Data in City(United States)
+##Project: Fetching current Weather Data in City(United States)##
 API used OpenWeatherMap.org
 
 1. Reads the requested location from the command line.
